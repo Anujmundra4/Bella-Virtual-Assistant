@@ -325,4 +325,4 @@ if __name__ == '__main__':
         elif "Good Morning" in query:
             speak("A warm" + query)
             speak("How are you Mister")
-            speak(assname)
+            speak(assistant_name)
